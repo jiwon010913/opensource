@@ -3,4 +3,4 @@
 1차 pull request
 merge하기 전 2차 수정
 
-2차 수정
+2차 수정 완료
