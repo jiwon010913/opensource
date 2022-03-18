@@ -3,4 +3,4 @@
 1차 pull request
 merge하기 전 2차 수정
 
-fork 후 사용자1 레포지토리에서 내용 
+fork 후 사용자1 레포지토리에서 내용 수정
