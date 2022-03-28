@@ -1,7 +1,11 @@
 print("류지원 202101265 컴퓨터공학부 2학년")
 print("좋아하는 과목은 자료구조입니다!^^*")
+print("박서원이 다녀갔습니다!^^*/n")
+
+print("202103307 조윤주 수정")
 print("1차 pull request")
-print("merge하기 전 2차 수정")
+print("merge하기 전 2차 수정/n")
 
 print("2차 수정 완료")
 print("3차 수정 완료")
+print("4차 수정 완료")
